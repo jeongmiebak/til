@@ -91,3 +91,37 @@ git init
 ```
 git status
 ```
+
+## 2022-09-20
+
+### 브랜치
+
+- 정의 : : A branch in Git is simply a lightweight movable pointer to one of these commits.
+- 브랜치는 특정한 목표를 가지고 코드를 수정할때 주로 만듬
+  - 이슈 하나당 브랜치 하나를 주로 만듬
+
+#### 명령어
+
+1. 브랜치 목록 보기
+
+```
+git branch
+```
+
+2. 브랜치 생성 하기
+
+```
+git branch branch-name
+```
+
+3. 특정 브랜치로 전환하기
+
+```
+git checkout branch-name
+```
+
+or
+
+```
+git switch branch-name
+```
