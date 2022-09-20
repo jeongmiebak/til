@@ -85,3 +85,9 @@ git log
 ```
 git init
 ```
+
+#### 저장소상태 파악하기
+
+```
+git status
+```
