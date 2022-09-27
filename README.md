@@ -125,3 +125,9 @@ or
 ```
 git switch branch-name
 ```
+
+4. 브랜치 생성과 체크아웃 동시에 하기
+
+```
+git checkout -b 브랜치명
+```
