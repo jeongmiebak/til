@@ -131,3 +131,13 @@ git switch branch-name
 ```
 git checkout -b 브랜치명
 ```
+
+# 2022-09-27
+
+## 브랜치 병합
+
+- 명령어
+
+```
+git merge 브랜치명
+```
