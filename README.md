@@ -167,3 +167,6 @@ git merge 브랜치명
 - git push origin main 을 하면 (현재 메인브랜치 체크아웃 가정)로컬 저장소에 있는 main브랜치에 있는 모든 커밋이 원격 저장소(origin)에 있는 main 브랜치로 병합되는데, 이때 방식은 fast-forward 임
 
 ## interactive rebase 연습
+
+- interactive rebase 1
+- interactive rebase 2
