@@ -78,6 +78,7 @@ git log
 ##### 리포지토리
 
 - 정의 : 여러 파일을 하나로 모은 컬렉션
+- git commit, git branch, git checkout, git checkout -b, git merge, git pull
 - 일반 디렉터리와 리포지토리의 차이 : .git 디렉터리의 유무
 
 ##### 로컬에서 리포지토리 생성
@@ -141,3 +142,8 @@ git checkout -b 브랜치명
 ```
 git merge 브랜치명
 ```
+
+
+## 2022-10-11
+- 지금까지 명령어 복습
+- 참고 사이트 https://violet-bora-lee.github.io/git-tutorial/
