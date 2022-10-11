@@ -141,3 +141,16 @@ git checkout -b 브랜치명
 ```
 git merge 브랜치명
 ```
+
+# 2022-10-11
+
+### git의 인증방법
+
+- ID/PW 방식
+- 키방식 공개키/개인키
+- 토큰방식 퍼스털 액세스 토큰
+
+### 지금까지 공부한 내용
+
+- git commit, git branch, git checkout, git checkout -b,
+- https://violet-bora-lee.github.io/git-tutorial/
