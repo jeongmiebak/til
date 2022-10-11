@@ -148,9 +148,9 @@ git merge 브랜치명
 
 - ID/PW 방식
 - 키방식 공개키/개인키
-- 토큰방식 퍼스털 액세스 토큰
+- 토큰방식 퍼스널 액세스 토큰
 
 ### 지금까지 공부한 내용
 
 - git commit, git branch, git checkout, git checkout -b,
-- https://violet-bora-lee.github.io/git-tutorial/
+- 참고사이트 https://violet-bora-lee.github.io/git-tutorial/
