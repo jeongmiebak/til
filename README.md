@@ -168,7 +168,4 @@ git merge 브랜치명
 
 ## interactive rebase 연습
 
-- interactive rebase 1
-- interactive rebase 2
-- interactive rebase 3
-
+- git rebase -i HEAD~3
